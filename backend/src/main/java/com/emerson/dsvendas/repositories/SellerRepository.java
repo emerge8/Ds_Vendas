@@ -1,4 +1,4 @@
-package com.emerson.dsvendas.repositories;
+ package com.emerson.dsvendas.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
