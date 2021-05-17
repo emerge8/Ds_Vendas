@@ -15,7 +15,7 @@ A aplicação consiste em um aplicativo web para análise de vendas, com valores
 
 ## Layout web 
 
-![Web 2](https://github.com/emerge8/assets/blob/main/Dashboard.png) /n
+![Web 2](https://github.com/emerge8/assets/blob/main/Dashboard.png) 
 
 # Tecnologias utilizadas
 ## Back end
