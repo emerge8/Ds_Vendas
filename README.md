@@ -9,9 +9,13 @@ Ds Vendas é uma aplicação full stack web construída durante a semana de trei
 A aplicação consiste em um aplicativo web para análise de vendas, com valores  de todas as vendas efetuadas, assim como gráficos para analisar tanto a taxa de sucesso obtida por cada vendedor, quanto a participação de cada um nas vendas. 
  
 
-## Layout web
+## Codificação
 
 ![Web 1](https://github.com/emerge8/assets/blob/main/Aplicacao_fullstack.gif)
+
+## Layout web 
+
+![Web 2](https://github.com/emerge8/assets/blob/main/Dashboard.png) /n
 
 # Tecnologias utilizadas
 ## Back end
